@@ -42,3 +42,7 @@ Now run the following to automatically configure new files.
 
 Run the server with  
 `python3 manage.py runserver`
+
+# Links
+Django documentation for the intro: [Link](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)  
+Guides can be found [here](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
